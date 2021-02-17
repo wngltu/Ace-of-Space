@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - phitbox
+  - enemy
+  - runner
+  - bottomwall
+  - goal
+  - pbullet
+  - ebullet
   layers:
   - Default
   - TransparentFX
